@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Bhanupratap02/Bhanupratap02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,60 +41,19 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer with a fla
 </div>
 
 ---
+### 🎯 Let's Connect!
 
-## 💼 Experience
-
-- **Web Developer Intern** at *Kroztek Integrated Solution* (Sep 2023 – Dec 2023)  
-  - Designed an online store with advanced search/filter features using **React.js**, **Redux**, and **Tailwind CSS**.
-  - Developed a scalable backend with **Node.js** and **Express** for seamless data management and API integration.
-
-- **Web Developer Intern** at *ZarvisGenix* (July 2024 – Aug 2024)  
-  - Collaborated with a UX/UI designer to create a responsive website using **React.js**, **Tailwind CSS**, and **Redux**.
-  - Integrated dynamic content via backend APIs and managed deployments on **AWS EC2** and **Hostinger**.
-
-- **Freelance Full Stack Developer** (Nov 2023 – Present)  
-  - Built an admin dashboard in **React.js** featuring advanced task management tools.
-  - Developed a cross-platform mobile application using **React Native**, including live chat and push notifications with **Firebase**.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhanu-pratap0211/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Bhanupratap02)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=vercel)](https://bhanupratap.vercel.app/)  
 
 ---
-
-## 💡 Projects
-
-- **[E-learning Platform](#)**  
-  *Tech:* Next.js, TypeScript, Prisma, MySQL, Shadcn UI, Tailwind CSS  
-  A centralized hub for educational content with a comprehensive teacher dashboard and seamless payment integration with **Stripe**.
-
-- **[LinksDaily](#)**  
-  *Tech:* React Native, TypeScript, Redux, Node.js, Express.js  
-  A dynamic news link sharing app that enables users to discover, share, and engage with trending articles.
-
-- **[CarZone](#)**  
-  *Tech:* Python, Django, PostgreSQL, HTML5, CSS3, Bootstrap, Google OAuth  
-  A user-friendly car selling platform featuring advanced search, filtering, and secure OAuth-based authentication.
-
-- **[Social Connect](#)**  
-  *Tech:* Node.js, Next.js, React, MongoDB, Semantic UI, Socket.io, Sendgrid  
-  A scalable social media platform offering real-time messaging, notifications, and seamless user interactions.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanupratapbehera&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanupratapbehera&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](#)  
-- [GitHub](https://github.com/bhanupratapbehera)  
-- [Portfolio](#)  
-- Email: [bhanupratapbehera193@gmail.com](mailto:bhanupratapbehera193@gmail.com)  
-
----
-
+### ✨ Fun Fact:
 *Crafting innovative solutions one line of code at a time. Let's create something amazing together!*
 
+
+
+<!--
+![Thank You](https://user-images.githubusercontent.com/your-thank-you-image.png)
+*Crafting innovative solutions one line of code at a time. Let's create something amazing together!*
+-->
