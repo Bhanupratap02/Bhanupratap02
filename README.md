@@ -53,6 +53,7 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer with a fla
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhanu-pratap0211/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=vercel)](https://bhanupratap.vercel.app/)  
+ [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanupratapbehera193@gmail.com)
 
 
 ---
