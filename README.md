@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Bhanu Pratap Behera! 👋
+  # Hi there, I'm Bhanu Pratap Behera! 👋
+
+
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F718&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%7C+Django+%7C+AWS" alt="Animated Header" />
+</div>
 
 Welcome to my GitHub profile! I’m a passionate Full Stack Developer with a flair for building scalable web and mobile applications. I specialize in **React, Next.js, React Native, Node.js, and Django** — turning innovative ideas into high-quality solutions.
 
@@ -41,11 +46,14 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer with a fla
 </div>
 
 ---
+
+
+
 ### 🎯 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhanu-pratap0211/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Bhanupratap02)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=vercel)](https://bhanupratap.vercel.app/)  
+
 
 ---
 ### ✨ Fun Fact:
